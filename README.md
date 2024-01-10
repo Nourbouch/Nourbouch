@@ -12,7 +12,7 @@ Let's code and learn together 🌎
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Frontend dev on a learning journey 🌟
 
-- 🎓 Studying From <b>Udemy</b> , <b>Youtube</b> , <b>Books</b>and much more I Start : <b><mark>2022/09/12</mark></b>
+- 🎓 Studying From <b>Udemy</b> , <b>Youtube</b> , <b>Books</b> and much more I Start : <b><mark>2022/09/12</mark></b>
 
 - 🐉 Btw i use <a href='https://www.linux.org'><b>Debian Linux</b></a>
 
