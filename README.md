@@ -1,6 +1,3 @@
-
-```            
-
 # Hi, I'm Nour 👋
 
 <img src='terminal.gif'>
@@ -38,4 +35,3 @@ Let's code and learn together 🌎
 - <a href='https://www.linkedin.com/in/nour-bouchenak-9277732a8/' target="_blank">🪕 LinkedIn </a>
 - <a href='https://discord.gg/9EAumGSk' target="_blank">🤖 Discord </a>
 
-```
