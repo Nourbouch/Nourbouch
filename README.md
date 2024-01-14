@@ -1,6 +1,6 @@
 # Hi, I'm Nour 👋
 
-<img src='terminal.gif'>
+<img src='terminal.gif'> 
 
 captivated by the world of programming. 
 Passionate about mastering the art of code and creating seamless, user-centric experiences. 
