@@ -31,7 +31,7 @@ Let's code and learn together 🌎
 
 ---
 
-<img src='https://media3.giphy.com/media/dd01Vv1qHypnm3VlAF/giphy.gif?cid=ecf05e47n825nl0h4owhkoormkvzvitnh6hg1e62wgk9va7g&ep=v1_gifs_related&rid=giphy.gif&ct=g' width='400' height='300'> / <img src='https://media1.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif?cid=ecf05e47bsyipw4k0dmoqlijp1hrmay7wqpaafardl5ywqn7&ep=v1_gifs_related&rid=giphy.gif&ct=g' width='400' height='300'> 
+<img src='https://media2.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?cid=ecf05e47n825nl0h4owhkoormkvzvitnh6hg1e62wgk9va7g&ep=v1_gifs_related&rid=giphy.gif&ct=g' width='400' height='300'> / <img src='https://media1.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif?cid=ecf05e47bsyipw4k0dmoqlijp1hrmay7wqpaafardl5ywqn7&ep=v1_gifs_related&rid=giphy.gif&ct=g' width='400' height='300'> 
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎 🌐 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚎, 𝙲𝚊𝚙𝚝𝚒𝚟𝚊𝚝𝚎, 𝙸𝚖𝚙𝚊𝚌𝚝. 🚀💻
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘 𝙰𝚌𝚑𝚒𝚎𝚟𝚎 𝙼𝚢 𝙶𝚘𝚊𝚕𝚜 
