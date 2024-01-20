@@ -1,10 +1,8 @@
 # Hi, I'm Nour 👋
 ---
-```
-<img src='https://media4.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif?cid=ecf05e47e67tbru39r4ggxx83hikx3ch8ej41q0vf0le5zf2&ep=v1_gifs_search&rid=giphy.gif&ct=g' width='200px'> 
-<img src='https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47pf7kas3c3lyezcn5va8niw3ppih6l7knpinbrmik&ep=v1_gifs_search&rid=giphy.gif&ct=g' width='200px'>
 
-```
+<img src='https://media4.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif?cid=ecf05e47e67tbru39r4ggxx83hikx3ch8ej41q0vf0le5zf2&ep=v1_gifs_search&rid=giphy.gif&ct=g'> / <img src='https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47pf7kas3c3lyezcn5va8niw3ppih6l7knpinbrmik&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
+
 
 captivated by the world of programming. 
 Passionate about mastering the art of code and creating seamless, user-centric experiences. 
