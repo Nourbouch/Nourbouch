@@ -1,6 +1,6 @@
 # Hi, I'm Nour 👋
 
-<img src='https://paramlabs.io/'> 
+<img src='https://media4.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif?cid=ecf05e47e67tbru39r4ggxx83hikx3ch8ej41q0vf0le5zf2&ep=v1_gifs_search&rid=giphy.gif&ct=g'> 
 
 captivated by the world of programming. 
 Passionate about mastering the art of code and creating seamless, user-centric experiences. 
