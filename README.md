@@ -17,7 +17,7 @@ Let's code and learn together 🌎
 
 - 🎓 Studying From <b>Udemy</b> , <b>Youtube</b> , <b>Books</b> and much more I Start : <b><mark>2022/09/12</mark></b>
 
-- 🐉 Btw i use <a href='https://www.linux.org'><b> ![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)</b></a>
+- 🐉 Btw i use <a style="display:grid;place-items:center;" href='https://www.linux.org'>![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)</a>
 ![image]({BadgeURLHere})
 
 ---
