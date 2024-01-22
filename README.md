@@ -17,7 +17,8 @@ Let's code and learn together 🌎
 
 - 🎓 Studying From <b>Udemy</b> , <b>Youtube</b> , <b>Books</b> and much more I Start : <b><mark>2022/09/12</mark></b>
 
-- 🐉 Btw i use <a href='https://www.linux.org'><b>Debian Linux</b></a>
+- 🐉 Btw i use <a href='https://www.linux.org'><b><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+"></b></a>
 
 ---
 
@@ -49,4 +50,12 @@ Let's code and learn together 🌎
 
 ---
 ## Random thing 
-<Social_Media>
+- Laptop : <img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white
+">
+- Freelance at : <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
+">
+- Browser : <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white
+"> / <img src='https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
+'>
+- Terminal : <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white
+">
