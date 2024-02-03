@@ -4,18 +4,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61556276900991) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umina_sx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-bouchenak-9277732a8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nourbouch_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3mXshzRL3Y6waoNnopIHmA) 
 
 ---
-
-
-
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NourBouch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NourBouch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
----
 captivated by the world of programming. 
 Passionate about mastering the art of code and creating seamless, user-centric experiences. 
 Eager to collaborate, grow, and weave innovation into every line of code. 
