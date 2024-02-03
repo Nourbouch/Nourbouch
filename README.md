@@ -1,7 +1,7 @@
 # Hi, I'm Nour 👋
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nourbouch&"  />
 </div>
 
 ---
