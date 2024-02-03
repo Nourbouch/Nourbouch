@@ -1,8 +1,5 @@
 # Hi, I'm Nour 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61556276900991) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umina_sx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-bouchenak-9277732a8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nourbouch_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3mXshzRL3Y6waoNnopIHmA) 
-
 ---
 captivated by the world of programming. 
 Passionate about mastering the art of code and creating seamless, user-centric experiences. 
