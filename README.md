@@ -62,7 +62,7 @@ Let's code and learn together 🌎
 [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
-## Random thing 
+## 💁 Random thing 
 - Laptop  ![image](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white) 
 - Freelance at ![image](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
 - Browser ![image](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white) 
