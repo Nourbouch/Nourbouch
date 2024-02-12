@@ -1,4 +1,4 @@
-# Hi, I'm Nour 👋
+# (•_•)O*¯`·.¸ 𝓗𝓲, 𝓘'𝓶 𝓝𝓸𝓾𝓻 👋 ¸.·´¯*O(•_•)
 
 𝚌𝚊𝚙𝚝𝚒𝚟𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚊𝚜𝚝𝚎𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚏 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚜𝚎𝚊𝚖𝚕𝚎𝚜𝚜, 𝚞𝚜𝚎𝚛-𝚌𝚎𝚗𝚝𝚛𝚒𝚌 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜. 
@@ -11,17 +11,17 @@
 
 ---
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: (•_•)O*¯`·.¸ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ¸.·´¯*O(•_•)
 
-- 🖥 Frontend dev on a learning journey 🌟
+- 🖥 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚍𝚎𝚟 𝚘𝚗 𝚊 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 🌟
 
-- 🎓 Studying From <b>Udemy</b> , <b>Youtube</b> , <b>Books</b> and much more I Start : <b><mark>2022/09/12</mark></b>
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙵𝚛𝚘𝚖 <b>𝚄𝚍𝚎𝚖𝚢</b> , <b>𝚈𝚘𝚞𝚝𝚞𝚋𝚎</b> , <b>𝙱𝚘𝚘𝚔𝚜</b> 𝚊𝚗𝚍 𝚖𝚞𝚌𝚑 𝚖𝚘𝚛𝚎 𝙸 𝚂𝚝𝚊𝚛𝚝 : <b><mark>2022/09/12</mark></b>
 
-- 🐉 Btw i use archcraft
+- 🐉 𝙱𝚝𝚠 𝚒 𝚞𝚜𝚎 𝚊𝚛𝚌𝚑𝚌𝚛𝚊𝚏𝚝
 
 ---
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬆ (•_•)O*¯`·.¸ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 ¸.·´¯*O(•_•)
 
 - <b>🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 </b>
 
@@ -38,7 +38,7 @@
 
 --- 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 (•_•)O*¯`·.¸ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: ¸.·´¯*O(•_•)
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 , 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 .
 
@@ -46,16 +46,17 @@
 
 --- 
 
-# 💻 Tech Stack:
+# 💻 (•_•)O*¯`·.¸𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔: ¸.·´¯*O(•_•)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=plastic&logo=bulma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Less](https://img.shields.io/badge/less-2B4C80?style=plastic&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
-### Streak
+# 📊 (•_•)O*¯`·.¸ 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: ¸.·´¯*O(•_•)
+
+### 𝙎𝙩𝙧𝙚𝙖𝙠
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NourBouch&theme=buefy&hide_border=false) <br/> 
 
-### Languages
+### 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NourBouch&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -63,7 +64,7 @@
 [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
-## 💁 Random thing 
+## 💁 ꧁༺ Random thing ༻꧂
 - Laptop  ![image](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white) 
 - Freelance at ![image](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
 - Browser ![image](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white) 
