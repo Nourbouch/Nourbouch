@@ -64,7 +64,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
-
 ---
 ## 💁 ꧁༺ Random thing ༻꧂
 - Laptop  ![image](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white) 
