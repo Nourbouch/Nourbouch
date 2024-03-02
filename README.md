@@ -47,7 +47,7 @@
 
 ## State 
 
-[![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Nourbouch=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nourbouch)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
