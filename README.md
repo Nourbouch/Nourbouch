@@ -45,6 +45,12 @@
 
 --- 
 
+## State 
+
+[![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Nourbouch=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
