@@ -45,9 +45,9 @@
 
 --- 
 
-## State 
+## Top used lang  
 
-[![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nourbouch)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourbouch&hide_progress=true)
 
 ---
 
