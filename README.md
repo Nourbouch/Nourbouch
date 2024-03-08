@@ -45,14 +45,14 @@
 
 --- 
 
-## Top used lang  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourbouch&layout=donut-vertical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=50-HTML_CSS_Projects)](https://github.com/Nourbouch/50-HTML_CSS_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=HTML-CSS-JS-Projects)](https://github.com/Nourbouch/HTML-CSS-JS-Projects)
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=50-HTML_CSS_Projects)](https://github.com/Nourbouch/50-HTML_CSS_Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=HTML-CSS-JS-Projects)](https://github.com/Nourbouch/HTML-CSS-JS-Projects)
+## Top used lang  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourbouch&layout=donut-vertical)
 
 ---
 
