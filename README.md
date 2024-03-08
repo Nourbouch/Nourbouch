@@ -55,9 +55,32 @@
 ---
 
 ## Top used lang  
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bou)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourbouch&layout=donut-vertical) / [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bou)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## Continuing...
+
+---
+
+### 𝙲𝚘𝚍𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝚆𝚎𝚋 𝙰𝚗𝚍 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
+
+𝚃𝚘 𝚌𝚘𝚍𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛, 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚊 𝚏𝚎𝚠 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜:
+
+- [𝟽 𝚁𝚎𝚊𝚌𝚝 𝚑𝚊𝚟𝚎 𝚊 𝚖𝚎𝚝𝚛𝚘 𝚖𝚒𝚗𝚒𝚖𝚞𝚖 𝚘𝚏 𝟶.𝟸 𝚖𝚜](https://github.com/Nourbouch/bot-tut)
+- [𝟷𝟶𝟶+ 𝙴𝚡𝚎𝚛𝚌𝚒𝚜𝚎𝚜 𝚘𝚗 𝙻𝚎𝚎𝚝𝚌𝚘𝚍𝚎](https://github.com/Nourbouch/leetcode)
+
+---
+
+### 𝚂𝚞𝚙𝚙𝚘𝚛𝚝
+
+If you find my work helpful or interesting, consider giving it a ⭐️ or sharing it with others. It's highly appreciated! 
+
+---
+
+Feel free to reach out to me through any of the social links provided above. I'm always open to connecting and collaborating on interesting projects.
+
+Cheers! 🚀✨
 
 ---
 
