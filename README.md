@@ -51,10 +51,14 @@
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=50-HTML_CSS_Projects)](https://github.com/Nourbouch/50-HTML_CSS_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=HTML-CSS-JS-Projects)](https://github.com/Nourbouch/HTML-CSS-JS-Projects)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=50-HTML_CSS_Projects)](https://github.com/Nourbouch/50-HTML_CSS_Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=HTML-CSS-JS-Projects)](https://github.com/Nourbouch/HTML-CSS-JS-Projects)
+
 
