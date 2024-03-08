@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=github-readme-stats)](https://github.com/Nourbouch/50-HTML_CSS_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=50-HTML_CSS_Projects)](https://github.com/Nourbouch/50-HTML_CSS_Projects)
 # 𝓗𝓲, 𝓘'𝓶 𝓝𝓸𝓾𝓻 👋
 𝚌𝚊𝚙𝚝𝚒𝚟𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚊𝚜𝚝𝚎𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚏 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚜𝚎𝚊𝚖𝚕𝚎𝚜𝚜, 𝚞𝚜𝚎𝚛-𝚌𝚎𝚗𝚝𝚛𝚒𝚌 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜. 
