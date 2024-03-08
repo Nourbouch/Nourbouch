@@ -4,8 +4,10 @@
 𝙴𝚊𝚐𝚎𝚛 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚐𝚛𝚘𝚠, 𝚊𝚗𝚍 𝚠𝚎𝚊𝚟𝚎 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚘𝚗 𝚒𝚗𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚕𝚒𝚗𝚎 𝚘𝚏 𝚌𝚘𝚍𝚎.
 𝙻𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛 🌎   
 
----
- 
+--- 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bou)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src='https://media4.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif?cid=ecf05e47e67tbru39r4ggxx83hikx3ch8ej41q0vf0le5zf2&ep=v1_gifs_search&rid=giphy.gif&ct=g' height='250' width='400'> / <img src='https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47pf7kas3c3lyezcn5va8niw3ppih6l7knpinbrmik&ep=v1_gifs_search&rid=giphy.gif&ct=g' height='250' width='400'>
 
 ---
