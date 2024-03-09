@@ -55,8 +55,13 @@
 ---
 
 ## Wakatime status 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bou)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@bou/fd856624-4099-40dd-a4b9-7d97553c9200.png" /></a>
+
+[![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3/project/018e1217-44c4-4915-b128-790e6cf9e4cc.svg)](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3/project/018e1217-44c4-4915-b128-790e6cf9e4cc)
+
+[![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3/project/018e1e59-cd62-4fad-916e-e8542ffb8c8e.svg)](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3/project/018e1e59-cd62-4fad-916e-e8542ffb8c8e)
+
+
 ---
 
 ## Continuing...
