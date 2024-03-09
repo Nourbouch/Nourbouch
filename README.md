@@ -56,8 +56,7 @@
 
 ## Wakatime status 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bou)](https://github.com/anuraghazra/github-readme-stats)
-<figure><embed src="https://wakatime.com/share/@bou/03fc3def-b866-4877-b4fe-0f1ac42e1329.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bou/fd856624-4099-40dd-a4b9-7d97553c9200.png" /></a>
 ---
 
 ## Continuing...
