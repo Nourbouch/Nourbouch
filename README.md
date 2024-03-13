@@ -54,15 +54,12 @@
 
 ---
 
-## Wakatime status 
-<div style="display: flex; justify-content: space-between; background-color: #ddd; padding: 10px;">
-    <div style="margin-bottom: 10px;">
-        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@bou/fd856624-4099-40dd-a4b9-7d97553c9200.png" style="width: 300px;"></a>
-    </div>
-    <div style=" margin-bottom: 10px;">
-        ![WakaTime Activity](https://wakatime.com/share/@bou/bca99f66-3f19-414e-a360-099a243c0b6a.svg)
-    </div>
-</div>
+## Wakatime Status
+
+![WakaTime Badge](https://wakatime.com/badge/github/@bou)
+
+![WakaTime Activity](https://wakatime.com/share/@bou/bca99f66-3f19-414e-a360-099a243c0b6a.svg)
+
 
 [![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
 
