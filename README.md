@@ -55,9 +55,9 @@
 ---
 
 ## Wakatime status 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bou/fd856624-4099-40dd-a4b9-7d97553c9200.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bou/fd856624-4099-40dd-a4b9-7d97553c9200.png" /></a>  / ![WakaTime Activity](https://wakatime.com/share/@bou/bca99f66-3f19-414e-a360-099a243c0b6a.svg)
 
-[![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3) / [![WakaTime](https://wakatime.com/share/@bou/c2b4bc39-2136-4b7c-b624-3fd643c6529d.png)](https://wakatime.com)
+[![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
 
 
 
