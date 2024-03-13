@@ -56,9 +56,10 @@
 
 ## Wakatime Status
 
-![WakaTime Badge](https://wakatime.com/badge/github/@bou)
-
 ![WakaTime Activity](https://wakatime.com/share/@bou/bca99f66-3f19-414e-a360-099a243c0b6a.svg)
+
+.. image:: https://wakatime.com/share/@bou/fc9fde82-789f-4525-bdd3-0e36bf396c0e.png
+    :target: https://wakatime.com/
 
 
 [![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
