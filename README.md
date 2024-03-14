@@ -58,6 +58,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourbouch&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
