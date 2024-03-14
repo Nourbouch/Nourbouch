@@ -1,4 +1,4 @@
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Nourbouch/ce692d6627522f4c58882aa52c09508c)
+[![Gist Card]](https://gist.github.com/Nourbouch/ce692d6627522f4c58882aa52c09508c)
 
  
  # Hi, Im Nour 👋  
