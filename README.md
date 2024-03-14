@@ -1,11 +1,12 @@
  # Hi, Im Nour 👋 
  [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
-
 𝚌𝚊𝚙𝚝𝚒𝚟𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
 
 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚊𝚜𝚝𝚎𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚏 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚜𝚎𝚊𝚖𝚕𝚎𝚜𝚜, 𝚞𝚜𝚎𝚛-𝚌𝚎𝚗𝚝𝚛𝚒𝚌 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜. 
 
 𝙴𝚊𝚌𝚑 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚐𝚛𝚘𝚠, 𝚊𝚗𝚍 𝚠𝚎𝚊𝚟𝚎 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚘𝚗 𝚒𝚗𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚕𝚒𝚗𝚎 𝚘𝚏 𝚌𝚘𝚍𝚎
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## :book: About Me
 
