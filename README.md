@@ -8,7 +8,7 @@
 
 𝙻𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛 🌎   
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
+## :book: About Me
 
 - 🖥 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚍𝚎𝚟 𝚘𝚗 𝚊 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 🌟
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙵𝚛𝚘𝚖 𝚄𝚍𝚎𝚖𝚢, 𝚈𝚘𝚞𝚝𝚞𝚋𝚎, 𝙱𝚘𝚘𝚔𝚜 𝚊𝚗𝚍 𝚖𝚞𝚌𝚑 𝚖𝚘𝚛𝚎 𝙸 𝚂𝚝𝚊𝚛𝚝: <mark>2022/09/12</mark>
@@ -17,7 +17,7 @@
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘 𝙰𝚌𝚑𝚒𝚎𝚟𝚎 𝙼𝚢 𝙶𝚘𝚊𝚕𝚜 
 - 💪 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚝𝚑𝚎 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠 , 𝚒 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 
+## ⬆ What I'm up To
 
 - <b>🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 : 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 & 𝙽𝚘𝚍𝚎𝚓𝚜 + 𝙴𝚡𝚙𝚛𝚎𝚜𝚜𝙹𝚜 & 𝙼𝚢𝚂𝚀𝙻</b>
 
@@ -44,15 +44,11 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
-## 📫  𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: 
+## 📫 How to Reach Me: 
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 , 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 .
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61556276900991) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/umina_sx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-bouchenak-9277732a8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nourbouch_) 
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=50-HTML_CSS_Projects)](https://github.com/Nourbouch/50-HTML_CSS_Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=HTML-CSS-JS-Projects)](https://github.com/Nourbouch/50-HTML-CSS-JS-Projects)
@@ -80,19 +76,16 @@
 - [𝟽 𝚁𝚎𝚊𝚌𝚝 𝚑𝚊𝚟𝚎 𝚊 𝚖𝚎𝚝𝚛𝚘 𝚖𝚒𝚗𝚒𝚖𝚞𝚖 𝚘𝚏 𝟶.𝟸 𝚖𝚜](https://github.com/Nourbouch/bot-tut)
 - [𝟷𝟶𝟶+ 𝙴𝚡𝚎𝚛𝚌𝚒𝚜𝚎𝚜 𝚘𝚗 𝙻𝚎𝚎𝚝𝚌𝚘𝚍𝚎](https://github.com/Nourbouch/leetcode)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-### 𝚂𝚞𝚙𝚙𝚘𝚛𝚝
+### Support
 
 If you find my work helpful or interesting, consider giving it a ⭐️ or sharing it with others. It's highly appreciated! 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 Feel free to reach out to me through any of the social links provided above. I'm always open to connecting and collaborating on interesting projects.
 
 Cheers! 🚀✨
+
 </br>
  <img src='https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47ujt72frgbrphr49lztukux473eqrfr8oc4kcsrcm&ep=v1_gifs_related&rid=giphy.gif&ct=g' height='250' width='400'>  |  <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhqZnBpM3ExamxodHVuZ3l4MjNma2RwOTFmZm8xazY2MmI2MGw2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif' height='250' width='400'>
 
@@ -101,4 +94,5 @@ Cheers! 🚀✨
 
 [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
