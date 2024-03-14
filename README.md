@@ -32,6 +32,7 @@
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 | **_Category_** 	| **_Skills_** 	|
 |---	|---	|
 | _Frameworks_ 	| **angular \| Expresse.js \| Node.js \| primeNG** 	|
@@ -45,6 +46,7 @@
 | _Design Tools_ 	| **Figma** 	|
 | _Learning_ 	| **Youtube \| Udemy \| Coursera \| Scrimba** 	|
 | _Competitive Coding_ 	| **Codwars \| Leetcode** 	|
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 
