@@ -51,8 +51,6 @@
 
 ![WakaTime Activity](https://wakatime.com/share/@bou/bca99f66-3f19-414e-a360-099a243c0b6a.svg)
 
-[![WakaTime Badge](https://wakatime.com/share/@bou/fc9fde82-789f-4525-bdd3-0e36bf396c0e.png)](https://wakatime.com/)
-
 [![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
