@@ -1,4 +1,5 @@
-# Hi, Im Nour 👋
+ # Hi, Im Nour 👋 
+ [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
 𝚌𝚊𝚙𝚝𝚒𝚟𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
 
@@ -70,13 +71,9 @@ Feel free to reach out to me through any of the social links provided above. I'm
 
 Cheers! 🚀✨
 
-</br>
- <img src='https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47ujt72frgbrphr49lztukux473eqrfr8oc4kcsrcm&ep=v1_gifs_related&rid=giphy.gif&ct=g' height='250' width='400'>  |  <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhqZnBpM3ExamxodHVuZ3l4MjNma2RwOTFmZm8xazY2MmI2MGw2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif' height='250' width='400'>
+ <img src='https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47ujt72frgbrphr49lztukux473eqrfr8oc4kcsrcm&ep=v1_gifs_related&rid=giphy.gif&ct=g' height='250' width='350'>  /  <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhqZnBpM3ExamxodHVuZ3l4MjNma2RwOTFmZm8xazY2MmI2MGw2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif' height='250' width='350'>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-[![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
