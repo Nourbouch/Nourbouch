@@ -6,7 +6,7 @@
 
 𝙴𝚊𝚌𝚑 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚐𝚛𝚘𝚠, 𝚊𝚗𝚍 𝚠𝚎𝚊𝚟𝚎 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚘𝚗 𝚒𝚗𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚕𝚒𝚗𝚎 𝚘𝚏 𝚌𝚘𝚍𝚎
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## :book: About Me
 
@@ -32,7 +32,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="530">
 
 | **_Category_** 	| **_Skills_** 	|
 |---	|---	|
@@ -48,7 +48,7 @@
 | _Learning_ 	| **Youtube \| Udemy \| Coursera \| Scrimba** 	|
 | _Competitive Coding_ 	| **Codwars \| Leetcode** 	|
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="530">
 
 
 ## Wakatime Status
@@ -56,6 +56,9 @@
 ![WakaTime Activity](https://wakatime.com/share/@bou/bca99f66-3f19-414e-a360-099a243c0b6a.svg)
 
 [![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## Continuing...
 
