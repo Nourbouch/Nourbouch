@@ -10,7 +10,7 @@
 
 --- 
 
- <img src='https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47ujt72frgbrphr49lztukux473eqrfr8oc4kcsrcm&ep=v1_gifs_related&rid=giphy.gif&ct=g' height='250' width='400'> / <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhqZnBpM3ExamxodHVuZ3l4MjNma2RwOTFmZm8xazY2MmI2MGw2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif' height='250' width='400'>
+ <img src='https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47ujt72frgbrphr49lztukux473eqrfr8oc4kcsrcm&ep=v1_gifs_related&rid=giphy.gif&ct=g' height='250' width='400'>  |  <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhqZnBpM3ExamxodHVuZ3l4MjNma2RwOTFmZm8xazY2MmI2MGw2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif' height='250' width='400'>
 
 ---
 
