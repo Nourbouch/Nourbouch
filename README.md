@@ -8,7 +8,6 @@
 [![](https://visitcount.itsvg.in/api?id=NourBouch&icon=2&color=1)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
 ## :book: About Me
 
 - 🖥 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚍𝚎𝚟 𝚘𝚗 𝚊 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 🌟
