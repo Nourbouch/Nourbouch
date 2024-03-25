@@ -72,7 +72,6 @@
 ### Json Data 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ce692d6627522f4c58882aa52c09508c)](https://gist.github.com/Nourbouch/ce692d6627522f4c58882aa52c09508c/) / [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=4214434938c428fd71cc8f65b32d67a8)](https://gist.github.com/Nourbouch/4214434938c428fd71cc8f65b32d67a8)
 
-
 ### Support
 
 If you find my work helpful or interesting, consider giving it a ⭐️ or sharing it with others. It's highly appreciated! 
