@@ -55,9 +55,10 @@
 
 ![WakaTime Activity](https://wakatime.com/share/@bou/bca99f66-3f19-414e-a360-099a243c0b6a.svg)
 
-[![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
-
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@bou/06f3067e-1393-4a36-9d0c-bb75bcc7f090.png" /></a>
+
+#### Totatl Coding time
+[![wakatime](https://wakatime.com/badge/user/018dffc8-be0c-44dc-b54d-f2a93b93afa3.svg)](https://wakatime.com/@018dffc8-be0c-44dc-b54d-f2a93b93afa3)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
