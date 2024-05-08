@@ -65,11 +65,6 @@
 
 ## Continuing...
 
-### Practice Project for new Dev's
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=50-HTML_CSS_Projects)](https://github.com/Nourbouch/50-HTML_CSS_Projects) /
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nourbouch&repo=HTML-CSS-JS-Projects)](https://github.com/Nourbouch/50-HTML-CSS-JS-Projects)
-
 ### Json Data 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ce692d6627522f4c58882aa52c09508c)](https://gist.github.com/Nourbouch/ce692d6627522f4c58882aa52c09508c/) / [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=4214434938c428fd71cc8f65b32d67a8)](https://gist.github.com/Nourbouch/4214434938c428fd71cc8f65b32d67a8)
 
