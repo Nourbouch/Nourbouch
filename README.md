@@ -36,7 +36,7 @@
 
 | **_Category_** 	| **_Skills_** 	|
 |---	|---	|
-| _Frameworks_ 	| **angular \| Expresse.js \| Node.js \| primeNG** 	|
+| _Frameworks_ 	| **angular \| React \| Expresse.js \| Node.js \| primeNG** 	|
 | _Languages_ 	| **JavaScript \| TypeScript \| C++ \| PHP \| HTML** 	|
 | _Styling & Frameworks_ 	| **CSS3 \| TailwindCSS \| Bootstrap \| Sass** 	|
 | _Database_ 	| **MangoDB \| postgresql** 	|
