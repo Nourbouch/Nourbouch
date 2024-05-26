@@ -1,5 +1,4 @@
  # Hi, Im Nour 👋  
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?nourbouch=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 𝚌𝚊𝚙𝚝𝚒𝚟𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
 
 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚊𝚜𝚝𝚎𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚏 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚜𝚎𝚊𝚖𝚕𝚎𝚜𝚜, 𝚞𝚜𝚎𝚛-𝚌𝚎𝚗𝚝𝚛𝚒𝚌 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜. 
@@ -78,4 +77,5 @@ Cheers! 🚀✨
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?nourbouch=ffflabs)
 
